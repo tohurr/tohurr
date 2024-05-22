@@ -5,19 +5,19 @@ Welcome to my GitHub profile!
 ## 🧑‍💻 About Me
 
 - 🌍 I'm based in New York.
-- 🎓 I'm a Computer Science graduate from Lehman College.
-- 🔭 I’m currently working at [BastionX](https://www.bastionx.io/)
-- 🌱 I’m currently learning IT Services and Software Development.
+- 🎓 I'm a Computer Science graduate.
+- 💼 I’m currently working at [BastionX](https://www.bastionx.io/).
 - 📫 How to reach me: connect on [LinkedIn](https://www.linkedin.com/in/tohur-rahman/).
+<!-- - 🌱 I’m currently learning IT Services and Software Development. --> 
 
 ## 🚀 Skills
 
-- **Programming**: JavaScript, HTML/CSS, React.js, Python
-- **IT Softwarwe**: Proxmox, OPNSense, Wazuh, Zabbix, Docker, OpenVAS, 
-- **IT**: Firewalls, Network Switches, Ticketing Systems, Technical Support, Help Desk Support, 24/7 Monitoring, Operating Systems, Microsoft 365
-- **Other Skills**: Version Control, Git, Figma, Windows, macOS, Linux, Google Workspace
+- **Programming:** JavaScript, HTML/CSS, React.js, Python
+- **IT Softwarwe:** Proxmox, OPNSense, Wazuh, Zabbix, Docker, OpenVAS
+- **IT:** Firewalls, Network Switches, Ticketing Systems, Technical Support, Help Desk Support, 24/7 Monitoring, Operating Systems, Microsoft 365
+- **Other Skills:** Version Control, Git, Figma, Windows, macOS, Linux, Google Workspace
 
-## 📂 Featured Projects
+## 📂 Featured Projects (In the works)
 
 ### [Project Name](https://github.com/your-username/project-repo)
 ![Project Image](path/to/project-image.png)
@@ -38,4 +38,4 @@ Brief description of the project.
 - 📖 Learning
 - 📸 Photography
 ---
-⭐️ From [Me](https://github.com/tohurr)
+<!-- ⭐️ From [Me](https://github.com/tohurr) -->
