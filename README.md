@@ -38,4 +38,4 @@ Brief description of the project.
 - 📖 Learning
 - 📸 Photography
 ---
-⭐️ From [Tohur](https://github.com/tohurr)
+⭐️ From [Me](https://github.com/tohurr)
