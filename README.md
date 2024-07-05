@@ -1,6 +1,4 @@
-# Hello, I'm Tohur 👋
-
-Welcome to my GitHub profile!
+# 👋 Hello, I'm Tohur. Welcome to my GitHub profile!
 
 ## 🧑‍💻 About Me
 
@@ -12,24 +10,23 @@ Welcome to my GitHub profile!
 
 ## 🚀 Skills
 
-- **Programming -** JavaScript, HTML/CSS, React.js, Python
-- **IT Softwarwe -** Proxmox, OPNSense, Wazuh, Zabbix, Docker, OpenVAS
-- **IT -** Firewalls, Network Switches, Ticketing Systems, Technical Support, Help Desk Support, 24/7 Monitoring, Operating Systems, Microsoft 365
-- **Other Skills -** Version Control, Git, Figma, Windows, macOS, Linux, Google Workspace
+- **Programming Languages and Frameworks-** JavaScript, React.js, Next.js, Tailwind CSS, HTML/CSS, Python
+- **IT (Information Technology) -** Firewalls, Network Switches, Ticketing Systems, Technical Support, 24/7 Monitoring, Operating Systems (Windows, macOS, Linux), Microsoft Office 365
+- **Other Skills -** Version Control (Git), Figma, Google Workspace
 
 ## 📂 Featured Projects (In the works)
 
 ### [Project Name](https://github.com/your-username/project-repo)
 ![Project Image](path/to/project-image.png)
-Brief description of the project.
+<!--Brief description of the project.-->
 
 ### [Project Name](https://github.com/your-username/project-repo)
 ![Project Image](path/to/project-image.png)
-Brief description of the project.
+<!--Brief description of the project.-->
 
 ## 🌐 Find Me Online
 
-- Personal Website: [www.tohur.com](https://www.tohur.com)
+- Website: [www.tohur.com](https://www.tohur.com)
 - LinkedIn: [Tohur Rahman](https://www.linkedin.com/in/tohur-rahman/)
 
 ## 🎨 Hobbies
