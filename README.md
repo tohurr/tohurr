@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 👋 Hello, I'm Tohur. Welcome to my GitHub profile!
+
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -28,6 +32,7 @@
 
 - Website: [www.tohur.com](https://www.tohur.com)
 - LinkedIn: [Tohur Rahman](https://www.linkedin.com/in/tohur-rahman/)
+- Discord: [Discord Chat](https://discord.gg/DWhhXT3yaz)
 
 ## 🎨 Hobbies
 
