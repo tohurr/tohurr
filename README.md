@@ -18,15 +18,15 @@
 - **IT (Information Technology) -** Firewalls, Network Switches, Ticketing Systems, Technical Support, 24/7 Monitoring, Operating Systems (Windows, macOS, Linux), Microsoft Office 365
 - **Other Skills -** Version Control (Git), Figma, Google Workspace
 
-## 📂 Featured Projects (In the works)
+<!--## 📂 Featured Projects (In the works)
 
 ### [Project Name](https://github.com/your-username/project-repo)
 ![Project Image](path/to/project-image.png)
-<!--Brief description of the project.-->
+Brief description of the project.
 
 ### [Project Name](https://github.com/your-username/project-repo)
 ![Project Image](path/to/project-image.png)
-<!--Brief description of the project.-->
+Brief description of the project.-->
 
 ## 🌐 Find Me Online
 
