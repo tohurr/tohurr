@@ -6,7 +6,7 @@
 
 - 🌍 Based in New York.
 - 🎓 Computer Science graduate.
-- 💼 Application Developer at [BastionX](https://www.bastionx.io/), contributing to innovative solutions.
+- 💼 Application Developer at [BastionX](https://www.bastionx.io/), creating cutting-edge applications.
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tohur-rahman/).
 - 💬 Lets chat on [Discord](https://discord.gg/DWhhXT3yaz).
 
@@ -26,12 +26,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL" alt="PostgresSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 </div>
 
 ## 🎨 Hobbies:
